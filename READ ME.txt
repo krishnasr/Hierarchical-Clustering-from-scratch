@@ -1,0 +1,1 @@
+Upload input2.txt and hierrarichal_clusturing_1.py to the colab, set the file path of the input2.txt and execute the code.
